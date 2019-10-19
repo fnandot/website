@@ -1,3 +1,10 @@
+# Name of website
+title: Fernando Pradas
+
+# Short description of your site
+description: A virtual proof that I'm awesome
+
+
 plugins:
   - jekyll-relative-links
 relative_links:
