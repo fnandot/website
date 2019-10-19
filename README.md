@@ -8,8 +8,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![GitHub last commit](https://img.shields.io/github/last-commit/letnando/webpage)
 
-![Follow me on GitHub](https://img.shields.io/github/followers/letnando?label=Follow&style=social)
-![Follow me on Twitter](https://img.shields.io/twitter/follow/letnando_?style=social)
+![GitHub followers](https://img.shields.io/github/followers/letnando?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/letnando_?style=social)
 
 ## What I do?
 
