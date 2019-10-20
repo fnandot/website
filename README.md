@@ -1,6 +1,5 @@
 # Hello World
 ![Website](https://img.shields.io/website?url=http%3A%2F%2Fwww.fernandopradas.com)
-![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade/fernandopradas.com?publish)
 ![Build Passing](https://img.shields.io/badge/build-passing-brightgreen)
 ![Tests Passing](https://img.shields.io/badge/test-passing-brightgreen)
 ![Code Quality](https://img.shields.io/badge/code%20quality-A-brightgreen)
@@ -13,7 +12,11 @@
 
 ## What I do?
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm a software engineer with wide experience in development.
+
+I've had the opportunity to participate in the development of exciting projects that have helped me to learn actively. When I develop software my main goal is to solve problems with a clean, reusable and scalable code. I'm always looking for how to improve myself and how to improve the code and its performance, this is really important in large volume projects. 
+
+Adaptability and multidisciplinary teamwork, and seeking always to keep abreast of new trends in a world of constant change, as is the development of software.
 
 ## Interests
 
