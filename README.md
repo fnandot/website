@@ -73,7 +73,12 @@ val professionalCareer = List(
   )
 );
 
-print(s"Companies I've worked: ${professionalCareer.reverse.map(_.company.name).reduce(_ + " => " + _)}");
+val companies = professionalCareer
+    .reverse
+    .map(_.company.name)
+    .reduce(_ + " => " + _);
+    
+print(s"Companies I've worked: ${companies}");
 // Companies I've worked: Bab => Atrapalo => Letgo
 ```
 
