@@ -20,11 +20,10 @@ Adaptability and multidisciplinary teamwork, and seeking always to keep abreast 
 
 ## Interests
 
-+ lorem
-+ ipsum
-+ dolor
-+ sit
-+ amet
++ AI Artificial Intelligence
++ Blockchain & Smart Contracts (Specially in Ethereum)
++ Kubernetes
++ ...
 
 ## Experience
 ```scala
@@ -74,19 +73,29 @@ val professionalCareer = List(
   )
 );
 
+print(s"Companies I've worked: ${professionalCareer.reverse.map(_.company.name).reduce(_ + " => " + _)}");
+// Companies I've worked: Bab => Atrapalo => Letgo
 ```
 
 ## Languages
 ```javascript
-let experience = [
+let programmingLanguages = [
   "PHP",
   "Javascript",
   "Bash",
   "Go",
   "Scala"
 ];
+
+let spokenLanguages = [
+  "Spanish",
+  "Catalan",
+  "English"
+];
 ```
 
 ## Philosophy
 
 - `write code for humans and not for machines` is my principle while I'm developing. 
+- `be a team player` because to reach the moon it was not thanks to a single man, but the collaboration between thousands of people.
+- ...
