@@ -20,9 +20,9 @@ Adaptability and multidisciplinary teamwork, and seeking always to keep abreast 
 
 ## Interests
 
++ Science Divulgation
 + AI Artificial Intelligence
 + Blockchain & Smart Contracts (Specially in Ethereum)
-+ Kubernetes
 + ...
 
 ## Experience
