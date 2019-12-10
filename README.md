@@ -8,7 +8,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/letnando/webpage)
 
 [![GitHub followers](https://img.shields.io/github/followers/letnando?style=social)](https://github.com/letnando)
-[![Twitter Follow](https://img.shields.io/twitter/follow/letnando_?style=social)](https://twitter.com/intent/follow?screen_name=letnando_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/fnandot?style=social)](https://twitter.com/intent/follow?screen_name=letnando_)
 
 ## What I do?
 
@@ -101,6 +101,6 @@ let spokenLanguages = [
 
 ## Philosophy
 
-- `write code for humans and not for machines` is my principle while I'm developing. 
+- `write code for humans and not for machines` is my main principle while I'm developing. 
 - `be a team player` because to reach the moon it was not thanks to a single man, but the collaboration between thousands of people.
 - ...
