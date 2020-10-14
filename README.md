@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![GitHub last commit](https://img.shields.io/github/last-commit/letnando/webpage)
 
-[![GitHub followers](https://img.shields.io/github/followers/letnando?style=social)](https://github.com/letnando)
+[![GitHub followers](https://img.shields.io/github/followers/fnandot?style=social)](https://github.com/fnandot)
 [![Twitter Follow](https://img.shields.io/twitter/follow/fnandot?style=social)](https://twitter.com/intent/follow?screen_name=letnando_)
 
 ## What I do?
