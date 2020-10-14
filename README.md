@@ -14,9 +14,13 @@
 
 I'm a software engineer with wide experience in development.
 
-I've had the opportunity to participate in the development of exciting projects that have helped me to learn actively. When I develop software my main goal is to solve problems with a clean, reusable and scalable code. I'm always looking for how to improve myself and how to improve the code and its performance, this is really important in large volume projects. 
+I've had the opportunity to participate 🙋‍♂️ in the development of exciting 🤩 projects that have helped me to learn 🤔 actively. When I develop software my main goal 🚩is to solve problems with a clean 🧽, reusable ♻️ and scalable ⬆️ code. I'm always looking for 🔎 how to improve myself and how to improve the code and its performance, this is really important 🔝 in large volume projects.
 
-Adaptability and multidisciplinary teamwork, and seeking always to keep abreast of new trends in a world of constant change, as is the development of software.
+Adaptability and multidisciplinary teamwork 👥, and seeking always to keep abreast of new trends 🆕 in a world 🌎 of constant change, as is the development of software.
+
+I recently started in the 🎓 teaching world as a Frameworks teacher at LaSalleBCN (URL University).
+
+On my free time 🥳 I love to travel ✈️ and learning about science ⚛ divulgation. 
 
 ## Interests
 
