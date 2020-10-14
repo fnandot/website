@@ -8,7 +8,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/letnando/webpage)
 
 [![GitHub followers](https://img.shields.io/github/followers/fnandot?style=social)](https://github.com/fnandot)
-[![Twitter Follow](https://img.shields.io/twitter/follow/fnandot?style=social)](https://twitter.com/intent/follow?screen_name=letnando_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/fnandot?style=social)](https://twitter.com/intent/follow?screen_name=fnandot)
 
 ## What I do?
 
